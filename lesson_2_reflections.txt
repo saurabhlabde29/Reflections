@@ -1,0 +1,8 @@
+Question 1:
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Ans:
+
+There are no initial commits. We need to make commits on our own. 
+We have to do it so we can save different version of the file.
